@@ -1,0 +1,20 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/PyramidTest.java",
+      "testCases": [
+        {
+          "methodName": "pyramidTest1",
+          "label": "Generates 5-row pyramid",
+          "description": "Verifies that the method correctly produces a 5-row pyramid."
+        },
+        {
+          "methodName": "pyramidTest2",
+          "label": "Validates pyramid generation",
+          "description": "Verifies that the method correctly products a 2-row pyramid."
+        }
+      ]
+    }
+  ]
+}
